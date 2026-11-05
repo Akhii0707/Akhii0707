@@ -102,7 +102,7 @@ I'm passionate about developing practical AI solutions that combine modern LLM t
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/)
+- 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/akhilesh-patil-9861a6250/)
 - 📧 Email: patilakhileshr@gmail.com
 - 💻 GitHub: [Akhii0707](https://github.com/Akhii0707)
 
